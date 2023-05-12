@@ -88,4 +88,11 @@ form{
 }
 .background_error{
     background-color: black;
+    color: rgb(31, 31, 31);
+}
+.contraste{
+    background-color: black;
+}
+h1{
+    font-size: 100px;
 }
